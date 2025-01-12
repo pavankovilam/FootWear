@@ -19,3 +19,11 @@
 .nav-link{
     color: antiquewhite;
 }
+.landing-scrole{
+    height: 100vh;
+    background-color: #00013B;
+}
+footer{
+    justify-content: end;
+    height: 10vh;
+}
