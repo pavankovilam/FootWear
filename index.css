@@ -3,6 +3,7 @@
     background-image: url("/assests/Designer.png");
     background-repeat: no-repeat;
     background-size: cover;
+    text-overflow:initial;
 }
 .Test{
     color: antiquewhite;
@@ -24,6 +25,12 @@
     background-color: #00013B;
 }
 footer{
-    justify-content: end;
     height: 10vh;
+}
+.conatiner{
+    display: flex;
+    justify-content: flex-end;
+}
+.footer-item{
+    margin: 10px;
 }
