@@ -5,7 +5,7 @@ let Data = fetch("https://script.google.com/macros/s/AKfycbzy8W4BsJw4DDkiJOpWYB3
             .then(d => d.forEach(element => {
                 console.log(element)
                 Arivals.innerHTML += `<div> 
-                <img src="https://drive.google.com/thumbnail?id=${(element["Template 1"]).split("=")[1]}"
+                <img src="https://drive.google.com/thumbnail?id=${(element["Template 1"]).split("=")[1]}"> <br>
                 Title: ${element.Title} <br>
                 Category :- ${ element.Category} <br>
                 Type :- ${ element.Type} <br>
