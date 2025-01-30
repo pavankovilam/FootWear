@@ -1,92 +1,34 @@
-{
-    "id": 329678821,
-    "title": "Red Rain Coat",
-    "handle": "red-rain-coat",
-    "description": "<p>Lorem Ipsum.</p>",
-    "published_at": "2014-06-12T16:28:11-04:00",
-    "created_at": "2014-06-12T16:28:13-04:00",
-    "vendor": "Shopify",
-    "type": "Coat",
-    "tags": [
-      "Spring"
-    ],
-    "price": 12900,
-    "price_min": 12900,
-    "price_max": 12900,
-    "available": true,
-    "price_varies": false,
-    "compare_at_price": null,
-    "compare_at_price_min": 0,
-    "compare_at_price_max": 0,
-    "compare_at_price_varies": false,
-    "variants": [
-      {
-        "id": 794864229,
-        "title": "Small",
-        "options": [
-          "Small"
-        ],
-        "option1": "Small",
-        "option2": null,
-        "option3": null,
-        "price": 12900,
-        "weight": 0,
-        "compare_at_price": null,
-        "inventory_management": "shopify",
-        "available": true,
-        "sku": null,
-        "requires_shipping": true,
-        "taxable": true,
-        "barcode": "49738645"
-      },
-      {
-        "id": 794864233,
-        "title": "Medium",
-        "options": [
-          "Medium"
-        ],
-        "option1": "Medium",
-        "option2": null,
-        "option3": null,
-        "price": 12900,
-        "weight": 0,
-        "compare_at_price": null,
-        "inventory_management": "shopify",
-        "available": true,
-        "sku": null,
-        "requires_shipping": true,
-        "taxable": true,
-        "barcode": "49738657"
-      },
-      {
-        "id": 794864237,
-        "title": "Large",
-        "options": [
-          "Large"
-        ],
-        "option1": "Large",
-        "option2": null,
-        "option3": null,
-        "price": 12900,
-        "weight": 0,
-        "compare_at_price": null,
-        "inventory_management": "shopify",
-        "available": true,
-        "sku": null,
-        "requires_shipping": true,
-        "taxable": true,
-        "barcode": "49738673"
-      }
-    ],
-    "images": [
-      "//cdn.shopify.com/s/files/1/0040/7092/products/red-rain-coat.jpeg?v=1402604893"
-    ],
-    "featured_image": "//cdn.shopify.com/s/files/1/0040/7092/products/red-rain-coat.jpeg?v=1402604893",
-    "options": [
-      {
-        "name": "Size",
-        "position": 1
-      }
-    ],
-    "url": "/products/red-rain-coat"
+[
+  {
+    "Timestamp": "2025-01-29T15:34:51.000Z",
+    "Brand": "Paragon",
+    "Description": "Go the extra mile while making an unmissable style statement with a pair of sandals for men from Paragon. The comfortable sole is complemented with multitone textured straps that make every walk as easy and light as possible. The sandals are the perfect blend of everyday comfort and style, ideal for the modern man.",
+    "Template 1": "https://drive.google.com/open?id=1hEJxiqGKSNZgvu4iBk57h8GjsC38NzQJ",
+    "Category": "Male",
+    "Type": "Sandals",
+    "Template 2": "https://drive.google.com/open?id=164ERAjFYzi7YKXlcGPsJHo3oKtxfXO2C",
+    "Template 3": "",
+    "Template 4": "",
+    "Template 5": "",
+    "Template 6": "",
+    "Title": "Paragon K2005G Men Stylish Lightweight Flipflops | Casual & Comfortable Daily-wear Slippers for Indoor & Outdoor | For Everyday Use",
+    "Price": 412,
+    "Product_ID": "SID0002"
+  },
+  {
+    "Timestamp": "2025-01-30T05:52:29.000Z",
+    "Brand": "Woodland",
+    "Description": "A melding of comfort and style, this pair of slippers has been brought to you by the coveted brand, Von Wellx Germany.",
+    "Template 1": "https://drive.google.com/open?id=1X-slYHdcvZcgtZAAL4MS6djkI_vcBiCV",
+    "Category": "Female",
+    "Type": "",
+    "Template 2": "https://drive.google.com/open?id=1l-zrt6dm40xKUcYfW-lFc7uXCpBFCjGo",
+    "Template 3": "",
+    "Template 4": "",
+    "Template 5": "",
+    "Template 6": "",
+    "Title": "VON WELLX GERMANY comfort women's black slippers LENIA",
+    "Price": 2999,
+    "Product_ID": "SID0003"
   }
+]

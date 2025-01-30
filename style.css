@@ -23,6 +23,9 @@
 .landing-scrole{
     height: 100vh;
     background-color: #00013B;
+    color: bisque;
+    padding-left: 5%;
+    padding-top: 5%;
 }
 footer{
     height: 10vh;
@@ -33,4 +36,9 @@ footer{
 }
 .footer-item{
     margin: 10px;
+}
+#item-card{
+ display: flex;
+ flex-direction: row;
+ flex-wrap:wrap;
 }
