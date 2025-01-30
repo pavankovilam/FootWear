@@ -1,6 +1,6 @@
 // API:- https://script.google.com/macros/s/AKfycbzy8W4BsJw4DDkiJOpWYB3jcJRxjRrJmgBJ-bAqDR95tCrcCJQ2gPodz2Yri8MovUFo/exec
 let Arivals = document.getElementById("item-card");
-let Data = fetch("http://127.0.0.1:5500/Sample_Response.json")
+let Data = fetch("https://script.google.com/macros/s/AKfycbzy8W4BsJw4DDkiJOpWYB3jcJRxjRrJmgBJ-bAqDR95tCrcCJQ2gPodz2Yri8MovUFo/exec")
             .then(res => res.json())
             .then(d => d.forEach(element => {
                 console.log(element)
